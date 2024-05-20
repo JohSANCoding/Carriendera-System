@@ -13,3 +13,7 @@ Pending features are as follows:
 - A reivew/notes system that stores information made by the user
 - Will use JSON to handle file management and import/export.=
 - Mostly local for now, with additional eateries added by the user available only to them
+
+Current Priorities
+ - [ ] Handle the file management through JSON with C++
+ - [ ] Make barebones GUI (Not yet interacting with the JSON files)
